@@ -1,5 +1,10 @@
 Let's make a change
 I am the master.
-Something looks wrong in this world.
-I am going to change the world.
-Good idea.. I can help you :)
+if (user==master)
+then
+	Something looks wrong in this world.
+	I am going to change the world.
+else
+	Good idea.. 
+	Lets check with master and then I can help you :)
+fi
