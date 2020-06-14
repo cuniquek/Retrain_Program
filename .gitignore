@@ -1,2 +1,14 @@
+# All files which name ends with '.log'
 *.log
+
+# File with name 'temp'
+temp
+
+# Folder in the root repository with name 'more'
+/more
+
+# Folder anywhere with name 'less'
+**/less
+
+# More patterns at https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
