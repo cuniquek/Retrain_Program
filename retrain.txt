@@ -2,4 +2,5 @@ Let's make a change
 I am the master.
 Something looks wrong in this world.
 Keep your changes.
+New changes.
 Good or bad idea!? I could try and help you :)
