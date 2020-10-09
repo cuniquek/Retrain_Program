@@ -1,6 +1,7 @@
 #!/bin/bash
 
-source lib.sh
+#source lib.sh
+source obsf
 
 # get script name
 me="`basename "$0"`"
